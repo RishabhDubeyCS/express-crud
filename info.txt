@@ -1,0 +1,21 @@
+Rest 
+ Representational state tranfer 
+  
+Rest is an arhitechural style that define a set of constraints to be use for creating weh service 
+RestFull apis
+ 
+api use for crud db
+
+Summary CRUD Operations:
+
+GET → Read data , retrieves resources 
+ 
+POST → Create new data , submits new data to the server 
+
+PUT->Update existing data 
+
+PATCH →  Update existing data partially 
+
+
+DELETE → Remove data
+   
