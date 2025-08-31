@@ -28,7 +28,7 @@ Flash messages are included for user-friendly success/error notifications.
 express-crud/
 │-- node_modules/
 │-- views/
-│ ├── layout.ejs # Common layout (Bootstrap included)
+│
 │ ├── index.ejs # List all items
 │ ├── new.ejs # Add new item form
 │ ├── edit.ejs # Edit existing item form
